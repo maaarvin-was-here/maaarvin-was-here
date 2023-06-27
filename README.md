@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marvin!
-- 👀 I'm currently interning at [Earnest](https://www.earnest.com/){:target="_blank"} as a full-stack software engineer intern
+- 👀 I'm currently interning at [Earnest](https://www.earnest.com/) as a full-stack software engineer intern
 
 
 <!---
